@@ -1,6 +1,7 @@
 # netflix-clone
 
-Lights, Code, Action! 🎬💻
+# Lights, Code, Action! 🎬💻
+
 ![alt text](https://scontent.fman7-1.fna.fbcdn.net/v/t39.30808-6/371798533_122115971462007747_5430805945650083110_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=49d041&_nc_ohc=d3pGhXTMUuUAX-PaAoU&_nc_ht=scontent.fman7-1.fna&oh=00_AfB4OIB9AhvoyBrqm5EVFG6uqfwGQQeLV0GOra2IzCZ_Ag&oe=6512E623)
 
 ## Visit
